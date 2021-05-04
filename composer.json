@@ -1,0 +1,25 @@
+{
+    "name": "contextusla/oca-php-api",
+    "type": "library",
+    "description": "PHP class for OCA Express Pak",
+    "keywords": [
+        "oca",
+        "oca express pak"
+    ],
+    "version": "0.1.1",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ContextusLA",
+            "email": "sergiomuro@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "oca.php"
+        ]
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
